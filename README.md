@@ -16,4 +16,4 @@ In this study I use:
 
 ###### Project by DIO - Digital Inovation One
 
-###### <img src="\img\image-20210505130120913.png" alt="image-20210505130120913" style="zoom: 80%;" />
+###### <img src="./img/image-20210505130120913.png" alt="site image" style="zoom: 80%;" />
